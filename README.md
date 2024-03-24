@@ -5,11 +5,11 @@
 - 🔭 I’m currently working in **Fintech, at a major asset management company in South Africa.**
 - 🌱 I’m currently learning **React and NextJS.**
 - 📈 Continuosly aiming to grow and add value.
-- ⚒️ I partake in **the entire development process, including: requirements refinement, scrum ceremonies, code reviews, CI/CD maintanence and deployements.**
+- 💬 I enjoy **refining requirements and working directly with clients.**
 - ⚡ Fun fact **I love POCs and documenting my findings**
 
 <h3>Languages and Tools:</h3>
-<p>CI/CD and Devops</p>
+<h4>CI/CD and Devops</h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<p>Languages</p>
+<h4>Languages</h4>
 <p align="left">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-<p>Tools and Frameworks</p>
+<h4>Tools and Frameworks</h4>
 <p align="left">
   <a
     href="https://www.cockroachlabs.com/product/cockroachdb/"
